@@ -48,6 +48,7 @@
 * ImpSteve
 
 == Brazilian Portuguese Localization ==
+* Heybrine
 * Samuel Deboni
 
 == Portuguese Localization ==
